@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+imbalanced-learn
+scikit-learn
+pymongo
+xgboost
+catboost
+python-dotenv
+
+-e .
