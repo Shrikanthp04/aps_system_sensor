@@ -8,5 +8,6 @@ pymongo
 xgboost
 catboost
 python-dotenv
-
+pyaml
+dill
 -e .
